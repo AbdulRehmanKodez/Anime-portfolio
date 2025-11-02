@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "samurai";
+  src: url("./assets/Fonts/CinzelDecorative-Black.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, html {
+  background: black;
+  color: white;
+  font-family: "samurai", sans-serif;
+  
+}
